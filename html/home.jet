@@ -72,7 +72,7 @@
 
           <div id="status" class="mt-2 float-end"></div>
 
-          <div id="output" class="chatbox"></div>
+          <div id="output" class="chatbox mt-3"></div>
         </div>
         <div class="col-md-4">
           <h3>Who's Online</h3>
